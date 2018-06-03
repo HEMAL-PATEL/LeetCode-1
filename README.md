@@ -17,7 +17,7 @@
 * Discussions and code reviews are more than welcome.
 * `TwoSum.java` provides OJ-accepted solution in Java.
 * `TwoSum.kt` provides OJ-accepted solution in Kotlin
-* `TwoSum.md` provides notes. test
+* `TwoSum.md` provides notes. 
 
 P.S.:
 - Please use Java 8 to compile and run
