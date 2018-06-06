@@ -1,12 +1,11 @@
-package com.qifan.leetcode.problems.PalindromeNumber
+package com.qifan.leetcode.problems.palindromeNumber
 
-import junit.framework.Assert.assertTrue
 import org.junit.Test
-
+import junit.framework.TestCase.assertTrue
 /**
  * Created by Qifan on 2018/6/6.
  */
-class PalindromeNumber {
+class KPalindromeNumber {
     @Test
     fun Test1() {
         val x = -2
@@ -55,7 +54,16 @@ class PalindromeNumber {
         assertTrue(isPalindrome(x))
     }
 
-    fun isPalindrome(x: Int): Boolean {
-
+    private fun isPalindrome(x: Int): Boolean {
+        var tmp = x
+        if (tmp < 0 || tmp % 10 == 0 && tmp != 0) {
+            return true
+        }
+        var revertedNumber= 0
+        while (tmp < revertedNumber) {
+            revertedNumber = revertedNumber * 10 + tmp % 10
+            tmp /= 10
+        }
+        return tmp == revertedNumber || tmp == revertedNumber / 10
     }
 }

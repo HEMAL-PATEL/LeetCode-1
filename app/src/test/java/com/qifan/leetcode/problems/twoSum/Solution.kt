@@ -11,7 +11,7 @@ import java.util.HashMap
  * Created by Qifan on 2018/6/2.
  */
 
-class Solution {
+class TwoSum {
 
     @Test
     fun Test0() {
