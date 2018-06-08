@@ -30,3 +30,4 @@ P.S.:
 | 009 | [Palindrome Number](https://github.com/underwindfall/LeetCode/tree/master/app/src/test/java/com/qifan/leetcode/problems/palindromeNumber) | Easy | `Algo`  |
 | 771 | [Jewels And Stones](https://github.com/underwindfall/LeetCode/tree/master/app/src/test/java/com/qifan/leetcode/problems/jewelsAndStones) | Easy | `Algo`  |
 | 657 | [Judge Route Circle](https://github.com/underwindfall/LeetCode/tree/master/app/src/test/java/com/qifan/leetcode/problems/judgeRouteCircle) | Easy | `Algo`  |
+| 832 | [Flipping an Image](https://github.com/underwindfall/LeetCode/tree/master/app/src/test/java/com/qifan/leetcode/problems/flippinganImage) | Easy | `Algo`  |
