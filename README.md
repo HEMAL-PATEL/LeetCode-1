@@ -34,3 +34,4 @@ P.S.:
 | 461 | [Hamming Distance](https://github.com/underwindfall/LeetCode/tree/master/app/src/test/java/com/qifan/leetcode/problems/hammingDistance) | Easy | `Algo`  |
 | 476 | [Number Complement](https://github.com/underwindfall/LeetCode/tree/master/app/src/test/java/com/qifan/leetcode/problems/numberComplement) | Easy | `Algo`  |
 | 104 | [Maximum Depth of Binary Tree](https://github.com/underwindfall/LeetCode/tree/master/app/src/test/java/com/qifan/leetcode/problems/maximumDepthofBinaryTree) | Easy | `Algo`  |
+| 852 | [Peak Index In A Mountain Array](https://github.com/underwindfall/LeetCode/tree/master/app/src/test/java/com/qifan/leetcode/problems/peakIndexInMountainArray) | Easy | `Algo`  |
